@@ -1,6 +1,6 @@
 {
   "name": "@liveecommerce/whatsapp-web-live",
-  "version": "1.23.2",
+  "version": "1.23.3",
   "description": "Library for interacting with the WhatsApp Web API ",
   "main": "./index.js",
   "typings": "./index.d.ts",
